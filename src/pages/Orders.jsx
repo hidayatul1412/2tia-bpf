@@ -4,7 +4,7 @@ export default function Orders(){
     return(
         <div>
             <PageHeader title="Order" breadcrum="Order"/>
-            <h1 className="m-4 text-gray-400">ini adalah halaman Orders</h1>
+            <h1 className="m-4 text-gray-400">ini adalah halaman untuk order</h1>
         </div>
     )
 }
